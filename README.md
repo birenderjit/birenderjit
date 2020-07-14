@@ -11,7 +11,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[website]: https://www.birenderjit.com
+[website]: http://www.birenderjit.com
 [twitter]: https://twitter.com/birenderjit
 [instagram]: https://instagram.com/birenderjit
 [linkedin]: https://linkedin.com/in/birenderjit
