@@ -3,7 +3,7 @@
 ## I'm a Developer, Husband, Father!
 
 - 🔭 I’m currently working on trying to find a new job!
-- 🌱 I’m currently learning Python, ML and refreshing Spring Boot.
+- 🌱 I’m currently learning golang, and applying for jobs.
 - 😄 Pronouns: he/him
 
 🏡 [website][website] **|** 
