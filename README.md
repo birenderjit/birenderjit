@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Husband, Father!
 
-- 🔭 I’m currently working on trying to find a new job!
-- 🌱 I’m currently learning golang, and applying for jobs.
+- 🔭 I’m currently working as Sr. Software Engineer for Prospero Health and do python, databricks and c# on azure.
+- 🌱 Passionate about golang and backend systems.
 - 😄 Pronouns: he/him
 
 🏡 [website][website] **|** 
